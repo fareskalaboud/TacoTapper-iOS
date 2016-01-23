@@ -4,6 +4,4 @@ TacoTapper is a simple iOS application written in Swift, inspired by Cookie Coun
 
 This was written as an extension to the tutorials on the iOS 9 & Swift 2 course by Mark Price of Devslopes.
 
-Demo (GIF): 
-
-![Demo](http://faresalaboud.me/TacoTapper.gif)
+Demo (GIF): http://faresalaboud.me/TacoTapper.gif
